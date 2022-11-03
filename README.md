@@ -4,3 +4,4 @@
 * Интерфейсы Comparable и Comparator
 * Generics
 * Лямбда-выражения
+* Многопоточность
