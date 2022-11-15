@@ -1,10 +1,16 @@
 package multithreading;
 
+import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.concurrent.ArrayBlockingQueue;
 
 public class ArrayBlockingQueueTest {
     public static void main(String[] args) {
         ArrayBlockingQueue<Integer> arrayBlockingQueue = new ArrayBlockingQueue<>(4);
+
+        ArrayList<String> list = new ArrayList<>();
+        Iterator iterator = list.iterator();
+        iterator.next();
 
         //Producer
         new Thread(() -> {
