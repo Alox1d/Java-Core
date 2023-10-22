@@ -1,7 +1,8 @@
-package generics;
+package generics.java;
 
 public class Game {
     public static void main(String[] args) {
+
         Scholar scholar1 = new Scholar("Игорь", 13);
         Scholar scholar2 = new Scholar("Мария", 14);
         Scholar scholar3 = new Scholar("Петр", 12);

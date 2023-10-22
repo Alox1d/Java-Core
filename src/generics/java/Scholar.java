@@ -1,4 +1,4 @@
-package generics;
+package generics.java;
 
 public class Scholar extends Participant {
     public Scholar(String name, int age) {
