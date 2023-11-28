@@ -1,4 +1,4 @@
-package generics.java;
+package generics.game4.game_java;
 
 public abstract class Participant {
     private String name;

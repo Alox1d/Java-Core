@@ -1,4 +1,4 @@
-package generics.`4 game`
+package generics.game4
 
 
 fun main(){

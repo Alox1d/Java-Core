@@ -1,4 +1,4 @@
-package generics.java;
+package generics.game4.game_java;
 
 public class Game {
     public static void main(String[] args) {

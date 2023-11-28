@@ -1,4 +1,4 @@
-package generics.java;
+package generics.game4.game_java;
 
 import java.util.ArrayList;
 import java.util.List;
